@@ -1,5 +1,10 @@
-# CommunityHub
+# Week 08 [CommunityHub]
+## Author
+- **Namme** Macua Vivian
+- **GitHub:** [@xmacua](https://github.com/xmacua)
+- **Date:** April 13, 2026
 
+## Project Description
 A modern React application demonstrating advanced patterns including effects, data fetching, routing, and styling.
 
 ## Features
